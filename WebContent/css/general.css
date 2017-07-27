@@ -1,0 +1,19 @@
+body {
+  padding-top: 25px;
+}
+
+label.error {
+	color: red;
+}
+
+.etiqueta {
+	padding-left: 0px;
+}
+
+.botonIcono {
+	font-size: 10px;
+}
+
+.tablas {
+	padding-top: 15px;
+}
